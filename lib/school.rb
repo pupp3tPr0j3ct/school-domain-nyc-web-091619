@@ -10,8 +10,7 @@ class School
     roster = {}
   end
   
-  def add_student(grade,name)
-    roster.keys = grade
+  def add_student
     
   end
   
