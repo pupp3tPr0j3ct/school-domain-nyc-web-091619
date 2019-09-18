@@ -12,7 +12,6 @@ class School
   
   def add_student(arg1,arg2)
     @roster[arg1] = []
-    @roster[arg1] << arg2
   end
   
 end
