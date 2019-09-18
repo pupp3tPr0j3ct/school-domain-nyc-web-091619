@@ -10,7 +10,7 @@ class School
     roster = {}
   end
   
-  def add_student
+  def add_student(arg1,arg2)
     
   end
   
